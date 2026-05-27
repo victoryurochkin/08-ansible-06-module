@@ -1,0 +1,25 @@
+---
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - Viktor Yurochkin (@victoryurochkin)
+description: Custom Ansible collection with module and role for creating text files.
+license:
+  - MIT
+tags:
+  - ansible
+  - module
+  - collection
+  - file
+  - homework
+dependencies: {}
+repository: https://github.com/victoryurochkin/08-ansible-06-module
+documentation: https://github.com/victoryurochkin/08-ansible-06-module
+homepage: https://github.com/victoryurochkin/08-ansible-06-module
+issues: https://github.com/victoryurochkin/08-ansible-06-module/issues
+build_ignore:
+  - "*.tar.gz"
+  - ".git"
+  - ".gitignore"
